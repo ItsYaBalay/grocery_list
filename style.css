@@ -1,0 +1,31 @@
+h1{
+    display:block;
+    margin:auto;
+    text-align: center;
+    color: green; /* Different color for main header */
+}
+
+h2{
+    
+    /*margin:auto;*/
+    padding: 5px 10px 5px 10px; /* Box Model */
+    margin-left: 20px;
+    background-color: azure; /* background color for section header */
+    border-color: black; /* border for section header */
+    border-style:solid;
+    display:inline;
+}
+
+.column {
+    float:left;
+    width: 25%;
+    background-color: cadetblue; /* background color for section */
+    padding-left: 20px;
+    margin: 20px;
+}
+  
+
+img{
+    width: 50%;
+}
+
