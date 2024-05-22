@@ -10,7 +10,7 @@ h2{
     /*margin:auto;*/
     padding: 5px 10px 5px 10px; /* Box Model */
     margin-left: 20px;
-    background-color: azure; /* background color for section header */
+    background-color: aquamarine; /* background color for section header */
     border-color: black; /* border for section header */
     border-style:solid;
     display:inline;
@@ -27,5 +27,6 @@ h2{
 
 img{
     width: 50%;
+    padding-left: 10px; /* image padding */
 }
 
